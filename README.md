@@ -4,7 +4,7 @@ Collection of my data visualization project. Tools: Tableau, D3.js, R ShinyApp, 
 
 
 
-## Tableau Projects
+## 📄 Tableau Projects
 
 
 
@@ -22,7 +22,7 @@ Tools used: Tableau, Python (Pandas, Numpy, Matplotlib)
 
 
 
-## R ShinyApp Project
+## 📄 R ShinyApp Project
 
 ### Seattle I-405 CHANGES
 
@@ -34,7 +34,7 @@ Tools used: JavaScript, R (Leaflet, dplyr, plotly, shiny and jsonlite)
 
 Travel Time Analysis of the Toll Lane Implementation
 
-<img src="docs/I405-traffic/snippet.gif">
+<img src="docs/I405-Traffic/snippet.gif">
 
 - Analyzed average travel time on I-405 corridor before and after the introduction of new Express Toll Lane.
 Helped the Washington State Department of Transportation to evaluate the performance of policies.
@@ -44,4 +44,4 @@ Live view: https://georgehua.shinyapps.io/I-405/ (ShinyApp server needs around 1
 
 
 
-## D3.js Projects
+## 📄 D3.js Projects
