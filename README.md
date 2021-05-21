@@ -1,16 +1,36 @@
 # Data Visualization Collection
 
-Collection of Data Visualization works. Tools: Tableau, D3.js, R ShinyApp
+Collection of my data visualization project. Tools: Tableau, D3.js, R ShinyApp, Python
+
+
 
 ## Tableau Projects
 
+
+
 ### IMDB Movie Analysis
 
-Repository: 
+Repository: https://github.com/georgehua/data-visualizations/tree/main/Movie 
 
-## R ShinyApp Projects
+Data source: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+
+Tools used: Tableau, Python (Pandas, Numpy, Matplotlib)
+
+<img src="docs/Movie/producer_dashboard.png">
+
+
+
+
+
+## R ShinyApp Project
 
 ### Seattle I-405 CHANGES
+
+Repository: https://github.com/georgehua/seattle-i405-traffic-viz 
+
+Data source: Washington State Department of Transportation private data
+
+Tools used: JavaScript, R (Leaflet, dplyr, plotly, shiny and jsonlite)
 
 Travel Time Analysis of the Toll Lane Implementation
 
@@ -21,5 +41,7 @@ Helped the Washington State Department of Transportation to evaluate the perform
 - Recoded multi-sources data, and visualized the report using R libraries (Leaflet, dplyr, plotly, shiny and jsonlite) and JavaScript.
 
 Live view: https://georgehua.shinyapps.io/I-405/ (ShinyApp server needs around 15 seconds to start)
+
+
 
 ## D3.js Projects

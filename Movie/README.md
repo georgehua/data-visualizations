@@ -1,4 +1,5 @@
-# Movie Data Visualization
+# IMDB Movie Data Visualization
+
 
 
 ## 1. Dataset
@@ -24,6 +25,12 @@
 - release_year：On air year
 - budget_adj：Budges adjusted by inflation rate (2010, USD)
 - revenue_adj：Revenue adjusted by inflation rate (2010, USD)
+
+
+
+Data Source: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+
+
 
 ## 2. Preprocessing
 
@@ -96,6 +103,7 @@ melted_director.to_csv('data/director.csv', index = False)
 ```
 
 
+
 ## 3. Visualization
 
 ### 3.1. Movie Genre change by year
@@ -110,6 +118,8 @@ melted_director.to_csv('data/director.csv', index = False)
 
 View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizhome/MovieGenreTrend/MovieGenreTrends?publish=yes
 
+
+
 ### 3.2. Universal Pictures vs. Paramount Pictures
 
 <img src="../docs/Movie/producer_dashboard.png">
@@ -120,6 +130,8 @@ View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizh
 
 View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizhome/Movieproducerscomparison/Movie_Producer_Comparison
 
+
+
 ### 3.3. Popularity of Film adaptation
 
 <img src="../docs/Movie/adapted_dashboard.png">
@@ -128,6 +140,8 @@ View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizh
 - Novel-based movies peaked in 1994 and 2003 respectively, and the budget for novel-based movies has been increasing year by year since 1994.
 
 View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizhome/MovieAdaptionProfit/MovieAdaptionAnalysis
+
+
 
 ### 3.4. Who is the best director?
 
