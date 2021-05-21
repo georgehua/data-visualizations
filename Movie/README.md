@@ -1,8 +1,10 @@
 # IMDB Movie Data Visualization
 
+## Business Question
 
+How does the two film production giants Universal Pictures vs. Paramount Pictures perform over the years? And who's the director that makes most profits?
 
-## 1. Dataset
+## Dataset
 
 - id:  unique ID
 - imdb_id: IMDB ID
@@ -32,7 +34,7 @@ Data Source: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 
 
-## 2. Preprocessing
+## Preprocessing
 
 Notebook: https://georgehua.github.io/data-visualizations/Movie/EDA.html
 
@@ -104,9 +106,9 @@ melted_director.to_csv('data/director.csv', index = False)
 
 
 
-## 3. Visualization
+## Visualization
 
-### 3.1. Movie Genre change by year
+### Movie Genre change by year
 
 <img src="../docs/Movie/genre_dashboard.png">
 
@@ -120,7 +122,7 @@ View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizh
 
 
 
-### 3.2. Universal Pictures vs. Paramount Pictures
+### Universal Pictures vs. Paramount Pictures
 
 <img src="../docs/Movie/producer_dashboard.png">
 
@@ -132,7 +134,7 @@ View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizh
 
 
 
-### 3.3. Popularity of Film adaptation
+### Popularity of Film adaptation
 
 <img src="../docs/Movie/adapted_dashboard.png">
 
@@ -143,7 +145,7 @@ View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizh
 
 
 
-### 3.4. Who is the best director?
+### Who is the best director?
 
 Display as Dashboard:
 
