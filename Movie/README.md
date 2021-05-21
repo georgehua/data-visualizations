@@ -42,6 +42,8 @@ Steps:
 
 <img src="../docs/Movie/genre_dashboard.png">
 
+View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizhome/MovieGenreTrend/MovieGenreTrends?publish=yes
+
 ### 3.2. Universal Pictures vs. Paramount Pictures
 
 <img src="../docs/Movie/producer_dashboard.png">
@@ -50,6 +52,9 @@ View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizh
 
 ### 3.3. Popularity of Film adaptation
 
+<img src="../docs/Movie/adapted_dashboard.png">
+
+View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizhome/MovieAdaptionProfit/MovieAdaptionAnalysis
 
 ### 3.4. Who is the best director?
 
