@@ -58,3 +58,14 @@ View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizh
 
 ### 3.4. Who is the best director?
 
+Display as Dashboard:
+
+<img src="../docs/Movie/director_dashboard.png">
+
+View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizhome/MovieDirector/MovieDirector?publish=yes
+
+However, dashboard has limited space for the 4 charts, we can use a data story to show the visualizations
+
+<img src="../docs/Movie/director_story.png">
+
+View on Tableau Pubilc: https://public.tableau.com/profile/george.hua2456#!/vizhome/MovieDirectorStory/MovieDirectorStory?publish=yes
