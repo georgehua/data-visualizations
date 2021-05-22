@@ -1,6 +1,6 @@
 # Data Visualization Collection
 
-Collection of my data visualization project. Tools used: Tableau, R ShinyApp, Python
+Collection of my data visualization project. Tools used: Tableau, R ShinyApp, Python, JavaScript
 
 
 
@@ -10,9 +10,9 @@ Collection of my data visualization project. Tools used: Tableau, R ShinyApp, Py
 
 ### IMDB Movie Analysis
 
-**Business question:** How does the two film production giants Universal Pictures vs. Paramount Pictures perform over the years? And who's the director that makes most profits?
+**Business question:** How does the two film production giants Universal Pictures vs. Paramount Pictures perform over the years? And which director makes most profits?
 
-**Project Repository**: https://github.com/georgehua/data-visualizations/tree/main/Movie 
+**View more in Project Repository**: https://github.com/georgehua/data-visualizations/tree/main/Movie 
 
 **Data source:** [Kaggle imdb-extensive-dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
 
@@ -26,7 +26,7 @@ Collection of my data visualization project. Tools used: Tableau, R ShinyApp, Py
 
 **Business question:** Which day of the week and which time of the day, do people ride most? Where do people ride most in Shanghai city?
 
-**Project Repository**: 
+**View more in Project Repository**: https://github.com/georgehua/data-visualizations/tree/main/Shanghai%20Bikeshare
 
 **Data source:** [SODA DATA Challenge](http://shanghai.sodachallenges.com/data.html?lang=en)
 
@@ -50,7 +50,7 @@ Collection of my data visualization project. Tools used: Tableau, R ShinyApp, Py
 
 **Business question:** Does the average travel time of  I-405 corridor improves after the introduction of new Express Toll Lane?
 
-**Project Repository**: https://github.com/georgehua/seattle-i405-traffic-viz 
+**View more in Project Repository**: https://github.com/georgehua/seattle-i405-traffic-viz 
 
 **Live view:** https://georgehua.shinyapps.io/I-405/ (Note: expecting longer waiting time to open, ShinyApp server needs around 15 seconds to start)
 
