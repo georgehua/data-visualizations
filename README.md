@@ -1,6 +1,6 @@
 # Data Visualization Collection
 
-Collection of my data visualization project. Tools: Tableau, D3.js, R ShinyApp, Python
+Collection of my data visualization project. Tools used: Tableau, R ShinyApp, Python
 
 
 
@@ -14,11 +14,29 @@ Collection of my data visualization project. Tools: Tableau, D3.js, R ShinyApp, 
 
 **Project Repository**: https://github.com/georgehua/data-visualizations/tree/main/Movie 
 
-**Data source:** https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
+**Data source:** [Kaggle imdb-extensive-dataset](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset)
 
 **Tools used:** Tableau, Python (Pandas, Numpy, Matplotlib)
 
 <img src="docs/Movie/producer_dashboard.png">
+
+
+
+### BikeShare Analysis Report
+
+**Business question:** Which day of the week and which time of the day, do people ride most? Where do people ride most in Shanghai city?
+
+**Project Repository**: 
+
+**Data source:** [SODA DATA Challenge](http://shanghai.sodachallenges.com/data.html?lang=en)
+
+**Tools used:** Tableau, Python (Pandas, Numpy, Matplotlib)
+
+
+
+<img src="docs/BikeShare/location.png">
+
+<img src="docs/BikeShare/weekday.png">
 
 
 
@@ -46,6 +64,3 @@ Collection of my data visualization project. Tools: Tableau, D3.js, R ShinyApp, 
 
 
 
-
-
-## 📄 D3.js Projects
