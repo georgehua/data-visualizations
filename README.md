@@ -1,6 +1,6 @@
 # Data Visualization Collection
 
-I am enthusiastic about social science and data science studies to solve societal problems and propose business opportunities. Through my past work and education, I learned to conduct quantitative analysis and telling stories with data. Because I believe those methods are the best ways to demonstrate my ideas to stakeholders and make my voice more reachable and understandable. This repository is a collection of my data visualization project. Tools used: **Tableau, R ShinyApp, Python libraries, and JavaScript libraries**.
+I am enthusiastic about social science and data science studies to solve societal problems and propose business opportunities. Through my past work and education, I learned to conduct quantitative analysis and telling stories with data. I believe those methods are the best ways to demonstrate my ideas to stakeholders and make my voice more reachable and understandable. This repository is a collection of my data visualization project. Tools used: **Tableau, R ShinyApp, Python libraries, and JavaScript libraries**.
 
 
 
