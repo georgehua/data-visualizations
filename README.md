@@ -3,6 +3,21 @@
 I am enthusiastic about social science and data science studies to solve societal problems and propose business opportunities. Through my past work and education, I learned to conduct quantitative analysis and telling stories with data. I believe those methods are the best ways to demonstrate my ideas to stakeholders and make my voice more reachable and understandable. This repository is a collection of my data visualization project. Tools used: **Tableau, R ShinyApp, Python libraries, and JavaScript libraries**.
 
 
+Table of Contents:
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [📄 Tableau Projects](#-tableau-projects)
+  - [IMDB Movie Analysis](#imdb-movie-analysis)
+  - [BikeShare Analysis Report](#bikeshare-analysis-report)
+- [📄 R ShinyApp Project](#-r-shinyapp-project)
+  - [Seattle I-405 CHANGES (Travel Time Analysis of the Toll Lane Implementation)](#seattle-i-405-changes-travel-time-analysis-of-the-toll-lane-implementation)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 
 ## 📄 Tableau Projects
 
